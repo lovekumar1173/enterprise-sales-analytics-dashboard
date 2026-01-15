@@ -40,6 +40,8 @@ Enterprise_Sales_Analytics_Project/
 2. Create database `business_analytics`
 3. Run dashboard:
 
+![Dashboard](DashboardOutput.png)
+
 
 ## Author
 Love Kumar
