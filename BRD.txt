@@ -1,0 +1,20 @@
+Business Requirement Document (BRD)
+
+Objective:
+To analyze enterprise sales performance and identify financial risks
+using structured data and analytics.
+
+Business Problems:
+- Lack of visibility into revenue trends
+- Difficulty identifying high-risk customers
+- Delayed payment impact on cash flow
+
+Scope:
+- Sales data analysis
+- Risk and delay identification
+- Business insight generation
+
+Stakeholders:
+- Business Analysts
+- Finance Team
+- Management

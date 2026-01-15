@@ -1,0 +1,9 @@
+Key Insights:
+- Laptop category generates highest revenue
+- Certain customers show delayed payment patterns
+- Regions with higher risk scores need attention
+
+Recommendations:
+- Improve payment follow-ups for high-risk customers
+- Focus marketing on high-performing products
+- Introduce credit risk controls

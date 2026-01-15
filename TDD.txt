@@ -1,0 +1,21 @@
+Technical Design Document (TDD)
+
+Architecture:
+MySQL Database → SQL Analytics → Python Insight Engine
+
+Database Design:
+- customers (master data)
+- products (master data)
+- sales (transactional data)
+- payments (risk indicators)
+
+Technologies Used:
+- MySQL
+- SQL
+- Python
+- Matplotlib
+
+Key Design Decisions:
+- Normalized database design
+- Use of foreign keys
+- Data validation before analysis
